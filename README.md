@@ -24,9 +24,7 @@ Numbered list:
 
 An [example link.](www.google.com)
 
-> Markdown users email-style> characters for blockquoting.
-
-![Cat](/home/dci-e0313/Cat/british.jpg)```
+> Markdown users email-style> characters for blockquoting.![Cat](/home/dci-e0313/Cat/british.jpg)```
 
 External Links.
 
@@ -40,3 +38,5 @@ Internal links
 # Anchors in Markdown
 
 [link to an anchor](#anchors-in-markdown)
+
+![Image](/home/dci-e0313/git/bendis/british.jpg "Hello kitty")
