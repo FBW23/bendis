@@ -49,6 +49,10 @@ Internal links
 - [x] cook the lasagne
 - [x] eating
 - [x] pooping
+<<<<<<< HEAD
+=======
+- [ ] koko
+>>>>>>> 4e3126892a52fe7a9a7f99d6adcd5a7a5527a157
 
 # Table
 
