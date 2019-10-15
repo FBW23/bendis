@@ -53,4 +53,4 @@ Internal links
 
 | Real name | Alice | Bob | Carl |
 | - | - | - | - |
-| Nick name| Al|| Spongebob | johnson | 
+| Nick name| Al| Spongebob | johnson | 
