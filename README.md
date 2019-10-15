@@ -39,4 +39,4 @@ Internal links
 
 [link to an anchor](#anchors-in-markdown)
 
-![Image](/home/dci-e0313/git/bendis/british.jpg "Hello kitty")
+![Image](british.jpg "Hello kitty")
