@@ -42,3 +42,9 @@ Internal links
 ![Image](images/british.jpg "Hello kitty")
 
 :smiley: :pray:
+
+# Checkboxes
+
+- [x] buy groceries
+- [ ] cook the lasagne
+- [ ] eating
