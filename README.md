@@ -48,6 +48,8 @@ Internal links
 - [x] buy groceries
 - [x] cook the lasagne
 - [x] eating
+- [x] pooping
+- [ ] koko
 
 # Table
 
