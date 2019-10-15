@@ -41,4 +41,4 @@ Internal links
 
 ![Image](images/british.jpg "Hello kitty")
 
-:smiley:
+:smiley: :pray:
