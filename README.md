@@ -48,6 +48,7 @@ Internal links
 - [x] buy groceries
 - [ ] cook the lasagne
 - [ ] eating
+- [x] pooping 
 
 # Table
 
