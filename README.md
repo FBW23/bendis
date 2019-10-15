@@ -46,15 +46,11 @@ Internal links
 # Checkboxes
 
 - [x] buy groceries
-<<<<<<< HEAD
-- [ ] cook the lasagne
-- [ ] eating
-- [x] pooping gfh
-=======
 - [x] cook the lasagne
 - [x] eating
 - [x] pooping
->>>>>>> 86dd0c406efa836065f88e82a7a44a9b2adf9253
+- [ ] koko
+ 
 
 # Table
 
