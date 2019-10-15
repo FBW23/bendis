@@ -54,3 +54,4 @@ Internal links
 | Real name | Alice | Bob | Carl |
 | - | - | - | - |
 | Nick name| Al| Spongebob | johnson | 
+| Phone number | 12345| 67564 | 00012 | 
