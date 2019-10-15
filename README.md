@@ -35,7 +35,7 @@ www.google.de
 Internal links
 [Julien](../../../julien)
 
-Anchors:
+
+# Anchors in Markdown
 
 [link to an anchor](#anchors-in-markdown)
-
