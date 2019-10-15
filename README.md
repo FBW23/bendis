@@ -25,4 +25,8 @@ An [example link.](www.google.com)
 
 > Markdown users email-style> characters for blockquoting.
 
-![Cat](/home/dci-e0313/Cat/british.jpg)
+![Cat](/home/dci-e0313/Cat/british.jpg)```
+
+www.google.de
+
+<www.google.de>
