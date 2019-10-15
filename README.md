@@ -40,3 +40,5 @@ Internal links
 [link to an anchor](#anchors-in-markdown)
 
 ![Image](images/british.jpg "Hello kitty")
+
+:smiley:
