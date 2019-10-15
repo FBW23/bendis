@@ -48,3 +48,9 @@ Internal links
 - [x] buy groceries
 - [ ] cook the lasagne
 - [ ] eating
+
+# Table
+
+| Real name | Alice | Bob | Carl |
+| - | - | - | - |
+| Nick name| Al|| Spongebob | johnson | 
