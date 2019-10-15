@@ -46,8 +46,8 @@ Internal links
 # Checkboxes
 
 - [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating
+- [x] cook the lasagne
+- [x] eating
 
 # Table
 
@@ -57,3 +57,4 @@ Internal links
 | Phone number | 12345| 67564 | 00012 | 
 | Hometown | Canada| Argentina | Brasil |
 | Flags | :canada: | :argentina: | :brazil:|
+| testing | Booo |
