@@ -27,6 +27,10 @@ An [example link.](www.google.com)
 
 ![Cat](/home/dci-e0313/Cat/british.jpg)```
 
+External Links.
+
 www.google.de
+
+Internal links
 
 <www.google.de>
