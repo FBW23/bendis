@@ -55,3 +55,4 @@ Internal links
 | - | - | - | - |
 | Nick name| Al| Spongebob | johnson | 
 | Phone number | 12345| 67564 | 00012 | 
+| Home Town | USA| Argentina | Brazil |
