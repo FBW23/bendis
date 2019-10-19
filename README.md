@@ -3,7 +3,7 @@
 # Heading
 
 ## Sub-heading
-Welcome
+Welcome to albania
 Paragraphs are separated by a blank line.
 
 Two spaces at the end of a line produces a line break.
@@ -46,8 +46,11 @@ Internal links
 # Checkboxes
 
 - [x] buy groceries
-- [ ] cook the lasagne
-- [ ] eating
+- [x] cook the lasagne
+- [x] eating
+- [x] pooping
+- [ ] koko
+
 
 # Table
 
@@ -57,3 +60,7 @@ Internal links
 | Phone number | 12345| 67564 | 00012 | 
 | Hometown | Canada| Argentina | Brasil |
 | Flags | :canada: | :argentina: | :brazil:|
+<<<<<<< HEAD
+=======
+| testing | Booo |
+>>>>>>> 9b7f7b249ccc23bf122c29d6f7cc49ee43d3f70b
